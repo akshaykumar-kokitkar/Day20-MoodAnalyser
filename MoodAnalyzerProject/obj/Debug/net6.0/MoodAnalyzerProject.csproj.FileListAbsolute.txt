@@ -1,0 +1,15 @@
+C:\Users\ak\Desktop\BridgeLabz Project\MoodAnalyzerProject\MoodAnalyzerProject\obj\Debug\net6.0\MoodAnalyzerProject.csproj.AssemblyReference.cache
+C:\Users\ak\Desktop\BridgeLabz Project\MoodAnalyzerProject\MoodAnalyzerProject\obj\Debug\net6.0\MoodAnalyzerProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ak\Desktop\BridgeLabz Project\MoodAnalyzerProject\MoodAnalyzerProject\obj\Debug\net6.0\MoodAnalyzerProject.AssemblyInfoInputs.cache
+C:\Users\ak\Desktop\BridgeLabz Project\MoodAnalyzerProject\MoodAnalyzerProject\obj\Debug\net6.0\MoodAnalyzerProject.AssemblyInfo.cs
+C:\Users\ak\Desktop\BridgeLabz Project\MoodAnalyzerProject\MoodAnalyzerProject\obj\Debug\net6.0\MoodAnalyzerProject.csproj.CoreCompileInputs.cache
+C:\Users\ak\Desktop\BridgeLabz Project\MoodAnalyzerProject\MoodAnalyzerProject\bin\Debug\net6.0\MoodAnalyzerProject.exe
+C:\Users\ak\Desktop\BridgeLabz Project\MoodAnalyzerProject\MoodAnalyzerProject\bin\Debug\net6.0\MoodAnalyzerProject.deps.json
+C:\Users\ak\Desktop\BridgeLabz Project\MoodAnalyzerProject\MoodAnalyzerProject\bin\Debug\net6.0\MoodAnalyzerProject.runtimeconfig.json
+C:\Users\ak\Desktop\BridgeLabz Project\MoodAnalyzerProject\MoodAnalyzerProject\bin\Debug\net6.0\MoodAnalyzerProject.dll
+C:\Users\ak\Desktop\BridgeLabz Project\MoodAnalyzerProject\MoodAnalyzerProject\bin\Debug\net6.0\ref\MoodAnalyzerProject.dll
+C:\Users\ak\Desktop\BridgeLabz Project\MoodAnalyzerProject\MoodAnalyzerProject\bin\Debug\net6.0\MoodAnalyzerProject.pdb
+C:\Users\ak\Desktop\BridgeLabz Project\MoodAnalyzerProject\MoodAnalyzerProject\obj\Debug\net6.0\MoodAnalyzerProject.dll
+C:\Users\ak\Desktop\BridgeLabz Project\MoodAnalyzerProject\MoodAnalyzerProject\obj\Debug\net6.0\ref\MoodAnalyzerProject.dll
+C:\Users\ak\Desktop\BridgeLabz Project\MoodAnalyzerProject\MoodAnalyzerProject\obj\Debug\net6.0\MoodAnalyzerProject.pdb
+C:\Users\ak\Desktop\BridgeLabz Project\MoodAnalyzerProject\MoodAnalyzerProject\obj\Debug\net6.0\MoodAnalyzerProject.genruntimeconfig.cache
