@@ -27,6 +27,7 @@ namespace MoodAnalyzerMSTestProject
             Assert.AreEqual(expected, mood);
 
         }
+      
         //Test Case 3.2 Given empty Mood should throw MoodException indicating Empty Mood.
         //Given-When-Then
         [TestMethod]
@@ -61,7 +62,6 @@ namespace MoodAnalyzerMSTestProject
             }
         }
         
-
     }
    
 }
