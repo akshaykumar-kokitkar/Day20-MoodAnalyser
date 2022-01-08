@@ -72,7 +72,15 @@ namespace MoodAnalyzerMSTestProject
             //Assert.AreEqual(expected, obj); to check strings are equal or not
         }
 
-
+        //Test 5.1
+        [TestMethod]
+        public void Given_Mood_Analyser_ClassName_Should_Return_Object_Using_Parameterised_Constructor()
+        {
+            //string message = "happy";
+            object expected = new MoodAnalyser("sad");
+            object obj = MoodAnalyserFactory.CreateMoodAnalyserWithParameterizedConstructor("MoodAnalyserProject.MoodAnalyser", "MoodAnalyser", "happy");
+            expected.Equals(obj);
+        }
     }
    
 }
