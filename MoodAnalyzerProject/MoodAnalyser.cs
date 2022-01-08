@@ -11,13 +11,25 @@
         public string AnalyseMood()
         {
 
-            if (this.message.Contains("Sad"))
+            try
             {
-                return "SAD";
+                if (this.message.Equals(string.Empty))
+                {
+                    throw new ExceptionTest(ExceptionTest.ExceptionType.EMPTY_MESSAGE, "Mood Should Not Be Empty");
+                }
+
+                if (this.message.Contains("Sad"))
+                {
+                    return "SAD";
+                }
+                else
+                {
+                    return "HAPPY";
+                }
             }
-            else
+            catch (NullReferenceException)
             {
-                return "HAPPY";
+                throw new ExceptionTest(ExceptionTest.ExceptionType.NULL_MESSAGE, "Mood Should Not Be Null");
             }
         }
     }
